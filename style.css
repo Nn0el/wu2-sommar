@@ -1,0 +1,18 @@
+
+
+img{
+    align-items: center;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: space-between;
+    margin-inline: auto;
+    display: grid;
+    background-color: aquamarine;
+}
+
+container{
+    max-width:80ch, 100vw -4rem; 
+    
+}
